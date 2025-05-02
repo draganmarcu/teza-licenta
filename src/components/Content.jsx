@@ -11,7 +11,7 @@ const contentStyle = {
     flex: 1,
     overflowY: 'auto',
     backgroundColor: '#fff',
-    padding: '0 50px'
+    padding: '60px 50px'
 };
 
 

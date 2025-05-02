@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .header-container {
     display: flex;
     justify-content: space-between;
@@ -84,3 +88,73 @@
     margin-top: 15px;
 }
 
+.m-t-xl {
+    margin-top: 100px;
+}
+
+.m-r-sm {
+    margin-right: 10px;
+}
+
+.m-r-lg {
+    margin-right: 30px;
+}
+
+.m-r-xl {
+    margin-right: 60px;
+}
+
+.m-r-xxl {
+    margin-right: 100px;
+}
+
+.usm-utm-img {
+    width: 350px;
+    height: 320px;
+}
+
+.usmf-asem-img {
+    width: 325px;
+    height: 165px;
+}
+
+.students-img {
+    width: 521px;
+    height: 579px;
+}
+
+.human-img {
+    width: 500px;
+    height: 562px;
+}
+
+.moldova-img {
+    height: 345px;
+    width: 450px;
+}
+
+.moldova-text {
+    font-size: 64px;
+    color: #BDBDBD;
+}
+
+.text-small {
+    font-size: 16px;
+}
+
+.light-grey {
+    color: #BDBDBD;
+}
+
+.light-grey-100 {
+    color: #FBFBFB;
+}
+
+.about-moldova-container {
+    background-color: #FBFBFB;
+    padding: 50px 100px;
+}
+
+.p-x-xl {
+    padding: 0 100px;
+}
